@@ -1,0 +1,8 @@
+class Jet{
+    constructor(){
+
+    }
+    display(){
+        
+    }
+}

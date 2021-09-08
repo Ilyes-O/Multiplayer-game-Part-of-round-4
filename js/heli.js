@@ -1,0 +1,8 @@
+class Heli{
+    constructor(){
+        
+    }
+    display(){
+        
+    }
+}
